@@ -1,0 +1,19 @@
+{
+
+    "manifest_version": 2,
+    "name": "BetterDuck",
+    "version": "1.0",
+
+    "Description": "Better D U C K",
+
+    "icons": {
+        "48": "duck.png"
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["https://duckduckgo.com/"],
+            "js": ["betterduck.js"]
+        }
+    ]
+}
