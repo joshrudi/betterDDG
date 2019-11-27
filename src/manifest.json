@@ -12,7 +12,7 @@
 
     "content_scripts": [
         {
-            "matches": ["https://duckduckgo.com/"],
+            "matches": ["*://duckduckgo.com/*"],
             "js": ["betterduck.js"]
         }
     ]
