@@ -7,7 +7,7 @@
     "Description": "Better D U C K",
 
     "icons": {
-        "48": "duck.png"
+        
     },
 
     "content_scripts": [
