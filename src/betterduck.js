@@ -1,1 +1,2 @@
 document.body.style.border = "5px solid red";
+document.getElementsByClassName("logo_homepage")[1].style = `background-image: url("https://raw.githubusercontent.com/joshrudi/betterDDG/master/src/icons/duck.png")`;
